@@ -1,0 +1,4 @@
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UItes\bin\Debug\UItes.dll
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UItes\bin\Debug\UItes.pdb
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UItes\obj\Debug\UItes.dll
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UItes\obj\Debug\UItes.pdb

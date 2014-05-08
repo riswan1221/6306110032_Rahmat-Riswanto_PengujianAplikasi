@@ -1,0 +1,7 @@
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\obj\Debug\tesPro.csprojResolveAssemblyReference.cache
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\bin\Debug\tesPro.dll
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\bin\Debug\tesPro.pdb
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\bin\Debug\MyCalculatorv1.exe
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\bin\Debug\MyCalculatorv1.pdb
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\obj\Debug\tesPro.dll
+D:\pengujianAplikasi\makulpengujiand3-master\C#\tesPro\obj\Debug\tesPro.pdb

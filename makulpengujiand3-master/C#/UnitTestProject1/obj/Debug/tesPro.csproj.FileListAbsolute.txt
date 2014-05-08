@@ -1,0 +1,7 @@
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\bin\Debug\MyCalculatorv1.exe
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\bin\Debug\MyCalculatorv1.pdb
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\obj\Debug\tesPro.csprojResolveAssemblyReference.cache
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\pengujianAplikasi\makulpengujiand3-master\C#\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
